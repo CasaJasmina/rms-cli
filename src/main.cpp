@@ -3,7 +3,7 @@
 #include <math.h>
 #include <cstring>
 
-#include "rtaudio/RtAudio.h"
+#include "RtAudio.h"
 
 #define DEFAULT_DEVICE 0
 #define DEFAULT_SAMPLERATE 44100
