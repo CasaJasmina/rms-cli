@@ -15,5 +15,5 @@ It accepts optional arguments:
 -b <buffersize> to set the buffer size   
 -l just list the devices and then exit   
    
-just run it without argument for default values ( `rms-cli -d 1, -sr 44100, -b 1024 ` )   
+just run it without argument for default values ( `rms-cli -d 0, -sr 44100, -b 1024 ` )   
 
